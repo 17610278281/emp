@@ -75,7 +75,8 @@
     "webpack": "^5.4.0",
     "webpack-bundle-analyzer": "^3.8.0",
     "webpack-chain": "^6.4.0",
-    "webpack-dev-server": "^3.11.0"
+    "webpack-dev-server": "^3.11.0",
+    "child_process": "^1.0.2"
   },
   "gitHead": "18b00fbabbdb618873ffdee40ffbc0e1b9646a14"
 }
